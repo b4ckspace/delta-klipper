@@ -131,7 +131,7 @@
         "100x100",
         "-100x100"
     ],
-    "printable_height": "250",
+    "printable_height": "450",
     "printer_model": "Generic Klipper Printer",
     "printer_notes": "",
     "printer_settings_id": "Delta",
